@@ -23,15 +23,12 @@ Here are some ideas to get you started: -->
 
 <img  src="./developer.gif" height="290px" align="right" />
 
-- 🔭 I’m currently working on `Education Website`.
-
-- 🌱 I’m currently learning `React`
+- 🔭 I’m currently working on `Smart AI MM Web App`.
 
 - 👯 I’m looking to collaborate for `Challenging Projects`
 
-- 🤔 I’m looking for help with `UI development frameworks`
-
 - 🙋‍♂️ You can check more about me at:
+     - <a href="https://smartaimm.vercel.app" target="_blank">Smart AI MM</a>
      - <a href="https://github.com/naylinhtunit/24mart" target="_blank">24mart</a>
      - <a href="https://github.com/naylinhtunit/forw3b" target="_blank">forw3b</a>
      - <a href="https://github.com/naylinhtunit/attendance" target="_blank">attendance</a>
