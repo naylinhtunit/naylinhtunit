@@ -1,45 +1,47 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Practical ideas. Thoughtful software. By Nay Lin Htun." width="100%" />
-</p>
-
-<h1 align="center">Nay Lin Htun</h1>
-
-<p align="center">
-  <strong>Software Developer · Product Builder</strong><br />
-  Turning everyday problems into useful products.<br />
-  Based in Osaka, Japan
+  <img src="./assets/profile-banner.svg" alt="Nay Lin Htun — Software developer and product builder in Osaka, Japan. AI tools, business software, and products for Myanmar and beyond." width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://kyatflow.app">KyatFlow</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/kalin-source">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:naylinhtunit1994@gmail.com">Get in touch</a>
+  <a href="https://github.com/naylinhtunit/CodePlus-Releases/releases">Explore CodePlus</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kalin-source">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:naylinhtunit1994@gmail.com">Work with me</a>
 </p>
 
----
+I’m **Nay Lin Htun**, a software developer and product builder based in **Osaka, Japan**. I build AI tools and business software, with a particular focus on Myanmar communities.
 
-## What I build
+My work connects three areas: **tools for building software, everyday business operations, and communication across languages**. Here are a few products you can explore.
 
-I build software for the things people deal with every day: managing money, running a business, learning, and communicating across languages.
+## Featured products
 
-My projects focus on Myanmar communities and the connections between life in Japan and Myanmar. I’m interested in where AI can make these experiences simpler and more useful, from learning assistants to voice interpretation.
+### CodePlus · AI coding workspace
 
-## Selected work
+A desktop workspace that brings an AI coding agent, a file editor, and local previews together. Built for moving between an idea, changes to your code, and a working preview in one place.
 
-| Product | The problem it helps solve |
-| :--- | :--- |
-| [**KyatFlow ↗**](https://kyatflow.app) | Keeping track of expenses, income, and remittances as a Myanmar worker abroad. |
-| [**GlobalPay ↗**](https://globalpaymm.vercel.app) | Managing payroll for teams working across Japan and Myanmar. |
-| [**Smart AI MM ↗**](https://smartaimm.vercel.app) | Bringing AI tutoring, Myanmar podcasts, and AI tools into one place. |
-| [**EasyBill ↗**](https://easybillmm.vercel.app) | Making everyday retail billing and barcode-based checkout easier for Myanmar shops. |
-| [**KAZE ↗**](https://kazemm.vercel.app) | Helping people communicate through voice translation across six languages, including Myanmar and Japanese. |
+[**Explore releases →**](https://github.com/naylinhtunit/CodePlus-Releases/releases)
 
-## App releases
+### KAZE · Voice across languages
 
-You can explore public app downloads and release notes for [CodePlus](https://github.com/naylinhtunit/CodePlus-Releases/releases) and [GlobalPay](https://github.com/naylinhtunit/GlobalPay-Releases/releases).
+An AI voice interpreter for conversations across Burmese, Japanese, English, Vietnamese, Indonesian, and Thai. A product focused on the language barriers people encounter at work and in daily life.
 
-## Let’s build something useful
+[**Try KAZE →**](https://kazemm.vercel.app)
 
-I’m open to collaborations around practical AI applications, business tools, and products that serve Myanmar communities.
+### KyatFlow · Personal finance abroad
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/kalin-source) or [email](mailto:naylinhtunit1994@gmail.com). You can also find me on [X](https://twitter.com/NayLinHtunIT).
+An expense tracker for Myanmar workers living overseas. Keep income, spending, and remittances in one place, with a clearer view of money at home and abroad.
+
+[**Explore KyatFlow →**](https://kyatflow.app)
+
+## More of my work
+
+| Product | Focus | Explore |
+| :--- | :--- | :--- |
+| **GlobalPay** | Payroll workflows for teams in Japan and Myanmar. | [Web app](https://globalpaymm.vercel.app) · [App releases](https://github.com/naylinhtunit/GlobalPay-Releases/releases) |
+| **Smart AI MM** | AI tutoring, Myanmar podcasts, and AI tools in one place. | [Web app](https://smartaimm.vercel.app) |
+| **EasyBill** | Retail billing and barcode-based checkout for Myanmar shops. | [Web app](https://easybillmm.vercel.app) |
+
+## Work with me
+
+Interested in an AI product, a business application, or a tool for Myanmar communities? I’m open to project conversations and collaboration.
+
+[**Email me →**](mailto:naylinhtunit1994@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/kalin-source) &nbsp;·&nbsp; [X](https://twitter.com/NayLinHtunIT)
