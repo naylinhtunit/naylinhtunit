@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Nay Lin Htun — Software developer and product builder in Osaka, Japan. AI tools, business software, and products for Myanmar and beyond." width="100%" />
+  <img src="./assets/nay-lin-htun.svg" alt="Nay Lin Htun — Software developer and product builder in Osaka, Japan. AI tools, business software, and products for Myanmar and beyond." width="100%" />
 </p>
 
 <p align="center">
